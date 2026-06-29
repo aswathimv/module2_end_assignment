@@ -112,7 +112,7 @@ Matplotlib
 
 Seaborn
 
-Jupyter Notebook
+Google Colab
 
 # Conclusion
 
